@@ -21,7 +21,7 @@
 
 ## Abstract
 
-本研究は2018年度卒業生である渡邊結南氏の卒業論文「日本全国ラーメン二郎店舗位置情報オープン化の実践」また、○○に着想を得て、タイのタマサート大学周辺の店舗の地理空間情報をOpenStreetMap(以下OSM)データベース内に登録する事である。その結果誰もが自由にタマサート大学周辺のデータのアクセスし、二次利用可能な状態を構築することが目的である。
+本研究はタイのタマサート大学周辺の店舗の地理空間情報をOpenStreetMap(以下OSM)データベース内に登録する事である。その結果誰もが自由にタマサート大学周辺のデータのアクセスし、二次利用可能な状態を構築することが目的である。
 周辺は
 
 
@@ -56,5 +56,5 @@ OSMの補充。その場所にレストランの情報が記載されている�
 
 https://furuhashilab.github.io/www4yunawatanabe/
 https://github.com/furuhashilab/2020gsc_shunsuke-yoda
-https://github.com/furuhashilab/2021gsc_SotaSuzuki/edit/main/README.md
+
 
